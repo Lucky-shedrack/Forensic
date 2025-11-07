@@ -1,0 +1,14 @@
+[+] Target ZIP: enc.zip
+[+] Wordlist: rockyou_small.txt
+[~] Attempt 1: trying '123456'
+[~] Attempt 2: trying '12345'
+[~] Attempt 3: trying '123456789'
+[~] Attempt 4: trying 'password'
+[~] Attempt 5: trying '1234567'
+[~] Attempt 6: trying 'rockyou'
+[~] Attempt 7: trying '12345678'
+[~] Attempt 8: trying 'abc123'
+[~] Attempt 9: trying 'nicole'
+[~] Attempt 10: trying 'daniel'
+[+] SUCCESS: Password FOUND after 41 attempts: 'jesus'
+[+] Files extracted to current directory.
